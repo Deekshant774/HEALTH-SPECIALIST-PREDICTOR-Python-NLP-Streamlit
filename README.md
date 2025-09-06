@@ -118,9 +118,9 @@ streamlit run app.py
 
 Here’s a glimpse in action:
 
-c:\Users\deeks\OneDrive\Pictures\Screenshots 1\Screenshot 2025-09-07 015441.png
-> This screenshot shows the main interface where users can input symptoms or upload medical notes, and receive predicted medical specialties in real time.
-
+<img src="Screenshot.png" alt="App Interface" width="600"/>
+<br>
+<em>This screenshot shows the main interface where users can input symptoms or upload medical notes, and receive predicted medical specialties in real time.</em>
 ---
 
 <h2><a class="anchor" id="Use-Cases"></a>Use Cases</h2>
